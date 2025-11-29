@@ -1,7 +1,7 @@
 <web-app>
     <servlet>
         <servlet-name>AddServlet</servlet-name>
-        <servlet-class>com.learnservlets.AddServlet</servlet-class>
+        <servlet-class>AddServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
